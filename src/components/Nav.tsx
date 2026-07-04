@@ -27,7 +27,7 @@ export default function Nav() {
           <a href="#clients">Clients</a>
         </div>
         <div className="nav-cta">
-          <span className="nav-phone">+234 903 552 7231</span>
+          <span className="nav-phone">+234 901 557 1868</span>
           <a href="#contact" className="btn btn-primary" style={{ padding: '10px 22px' }}>Get in Touch</a>
         </div>
       </div>
