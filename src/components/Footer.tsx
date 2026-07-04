@@ -39,7 +39,7 @@ export default function Footer() {
           <div>
             <h5>Contact</h5>
             <ul>
-              <li><a href="tel:+2349035527231">+234 903 552 7231</a></li>
+              <li><a href="tel:+2349035527231">+234 901 557 1868</a></li>
               <li><a href="tel:+2347013424125">+234 701 342 4125</a></li>
               <li><a href="mailto:sjsengr@gmail.com">sjsengr@gmail.com</a></li>
               <li>Lagos · Port Harcourt · Warri</li>
