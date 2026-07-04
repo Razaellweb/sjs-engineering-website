@@ -21,7 +21,7 @@ export default function Contact() {
               <div className="contact-ico"><IconPhone /></div>
               <div>
                 <h4>Phone</h4>
-                <p>+234 903 552 7231</p>
+                <p>+234 901 557 1868</p>
                 <p>+234 701 342 4125</p>
               </div>
             </div>
